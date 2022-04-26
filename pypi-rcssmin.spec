@@ -4,7 +4,7 @@
 #
 Name     : pypi-rcssmin
 Version  : 1.1.0
-Release  : 35
+Release  : 36
 URL      : https://files.pythonhosted.org/packages/1e/e1/1386510c336541857aa28f8a0bb1514f15f557eb6037ddd61d1dd09c14ec/rcssmin-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1e/e1/1386510c336541857aa28f8a0bb1514f15f557eb6037ddd61d1dd09c14ec/rcssmin-1.1.0.tar.gz
 Summary  : CSS Minifier
@@ -14,9 +14,6 @@ Requires: pypi-rcssmin-license = %{version}-%{release}
 Requires: pypi-rcssmin-python = %{version}-%{release}
 Requires: pypi-rcssmin-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: rcssmin
-Provides: rcssmin-python
-Provides: rcssmin-python3
 
 %description
 # rCSSmin - A CSS Minifier For Python
@@ -65,7 +62,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641487879
+export SOURCE_DATE_EPOCH=1651015810
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
