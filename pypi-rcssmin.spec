@@ -5,7 +5,7 @@
 #
 Name     : pypi-rcssmin
 Version  : 1.1.1
-Release  : 46
+Release  : 47
 URL      : https://files.pythonhosted.org/packages/77/2b/c9b076bb97042a3e013684abc40cfd56a3c15d40291f51523b59824e5155/rcssmin-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/77/2b/c9b076bb97042a3e013684abc40cfd56a3c15d40291f51523b59824e5155/rcssmin-1.1.1.tar.gz
 Summary  : CSS Minifier
@@ -69,7 +69,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1683047439
+export SOURCE_DATE_EPOCH=1685548614
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fdebug-types-section -femit-struct-debug-baseonly -fno-lto -g1 -gno-column-info -gno-variable-location-views -gz=zstd "
 export FCFLAGS="$FFLAGS -fdebug-types-section -femit-struct-debug-baseonly -fno-lto -g1 -gno-column-info -gno-variable-location-views -gz=zstd "
