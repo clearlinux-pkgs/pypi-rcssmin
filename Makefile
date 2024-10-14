@@ -1,5 +1,5 @@
 PKG_NAME := pypi-rcssmin
-URL = https://files.pythonhosted.org/packages/ef/26/f38d49c21d933e3e4320ed31c6025c381dbd973e9936edd0af52ce521534/rcssmin-1.1.2.tar.gz
+URL = https://files.pythonhosted.org/packages/54/ea/97b6a726af92460b096283a8f906860327f946b4fb86c2a810697646236f/rcssmin-1.1.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
