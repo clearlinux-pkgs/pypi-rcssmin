@@ -7,7 +7,7 @@
 #
 Name     : pypi-rcssmin
 Version  : 1.1.3
-Release  : 51
+Release  : 52
 URL      : https://files.pythonhosted.org/packages/54/ea/97b6a726af92460b096283a8f906860327f946b4fb86c2a810697646236f/rcssmin-1.1.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/54/ea/97b6a726af92460b096283a8f906860327f946b4fb86c2a810697646236f/rcssmin-1.1.3.tar.gz
 Summary  : CSS Minifier
